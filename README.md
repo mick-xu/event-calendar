@@ -8,14 +8,14 @@ A event calendar component for Vue
 
 ### Installation
 ```
-npm install vue-calendar
+npm install events-calendar
 # or
-yarn add vue-calendar
+yarn add events-calendar
 ```
 ### Usage
 ```
-import Calendar from 'vue-calendar'
-import 'e-calendar/lib/e-calendar.css'
+import Calendar from 'events-calendar'
+import 'events-calendar/lib/events-calendar.css'
 
 components: {
     Calendar
