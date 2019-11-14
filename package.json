@@ -1,14 +1,14 @@
 {
-  "name": "event-calendar",
-  "version": "0.1.2",
+  "name": "events-calendar",
+  "version": "0.1.0",
   "description": "calendar component for vue",
-  "main": "lib/event-calendar.umd.min.js",
+  "main": "lib/events-calendar.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "test:unit": "vue-cli-service test:unit",
-    "lib": "vue-cli-service build --target lib --name event-calendar --dest lib src/components/index.js"
+    "lib": "vue-cli-service build --target lib --name events-calendar --dest lib src/components/index.js"
   },
   "repository": {
     "type": "git",
