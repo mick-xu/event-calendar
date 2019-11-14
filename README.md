@@ -1,7 +1,7 @@
-# Vue-Calendar
+# events-calendar
 A event calendar component for Vue
 
-<img src="screenshot.png" />
+<img src="https://raw.githubusercontent.com/mick-xu/event-calendar/master/screenshot.png" />
 
 ### Features
 - Display events
